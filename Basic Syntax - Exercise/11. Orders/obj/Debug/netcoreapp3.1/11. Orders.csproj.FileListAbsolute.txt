@@ -1,0 +1,13 @@
+C:\Users\Alex\source\repos\Fundamentals Basic Syntax\11. Orders\bin\Debug\netcoreapp3.1\11. Orders.exe
+C:\Users\Alex\source\repos\Fundamentals Basic Syntax\11. Orders\bin\Debug\netcoreapp3.1\11. Orders.deps.json
+C:\Users\Alex\source\repos\Fundamentals Basic Syntax\11. Orders\bin\Debug\netcoreapp3.1\11. Orders.runtimeconfig.json
+C:\Users\Alex\source\repos\Fundamentals Basic Syntax\11. Orders\bin\Debug\netcoreapp3.1\11. Orders.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Fundamentals Basic Syntax\11. Orders\bin\Debug\netcoreapp3.1\11. Orders.dll
+C:\Users\Alex\source\repos\Fundamentals Basic Syntax\11. Orders\bin\Debug\netcoreapp3.1\11. Orders.pdb
+C:\Users\Alex\source\repos\Fundamentals Basic Syntax\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Fundamentals Basic Syntax\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Fundamentals Basic Syntax\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Fundamentals Basic Syntax\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Fundamentals Basic Syntax\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.dll
+C:\Users\Alex\source\repos\Fundamentals Basic Syntax\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.pdb
+C:\Users\Alex\source\repos\Fundamentals Basic Syntax\11. Orders\obj\Debug\netcoreapp3.1\11. Orders.genruntimeconfig.cache

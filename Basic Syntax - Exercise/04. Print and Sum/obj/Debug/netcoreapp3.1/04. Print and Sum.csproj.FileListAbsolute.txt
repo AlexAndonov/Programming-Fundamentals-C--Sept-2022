@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\01. Ages\04. Print and Sum\bin\Debug\netcoreapp3.1\04. Print and Sum.exe
+C:\Users\Alex\source\repos\01. Ages\04. Print and Sum\bin\Debug\netcoreapp3.1\04. Print and Sum.deps.json
+C:\Users\Alex\source\repos\01. Ages\04. Print and Sum\bin\Debug\netcoreapp3.1\04. Print and Sum.runtimeconfig.json
+C:\Users\Alex\source\repos\01. Ages\04. Print and Sum\bin\Debug\netcoreapp3.1\04. Print and Sum.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\01. Ages\04. Print and Sum\bin\Debug\netcoreapp3.1\04. Print and Sum.dll
+C:\Users\Alex\source\repos\01. Ages\04. Print and Sum\bin\Debug\netcoreapp3.1\04. Print and Sum.pdb
+C:\Users\Alex\source\repos\01. Ages\04. Print and Sum\obj\Debug\netcoreapp3.1\04. Print and Sum.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\01. Ages\04. Print and Sum\obj\Debug\netcoreapp3.1\04. Print and Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\01. Ages\04. Print and Sum\obj\Debug\netcoreapp3.1\04. Print and Sum.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\01. Ages\04. Print and Sum\obj\Debug\netcoreapp3.1\04. Print and Sum.AssemblyInfo.cs
+C:\Users\Alex\source\repos\01. Ages\04. Print and Sum\obj\Debug\netcoreapp3.1\04. Print and Sum.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\01. Ages\04. Print and Sum\obj\Debug\netcoreapp3.1\04. Print and Sum.dll
+C:\Users\Alex\source\repos\01. Ages\04. Print and Sum\obj\Debug\netcoreapp3.1\04. Print and Sum.pdb
+C:\Users\Alex\source\repos\01. Ages\04. Print and Sum\obj\Debug\netcoreapp3.1\04. Print and Sum.genruntimeconfig.cache

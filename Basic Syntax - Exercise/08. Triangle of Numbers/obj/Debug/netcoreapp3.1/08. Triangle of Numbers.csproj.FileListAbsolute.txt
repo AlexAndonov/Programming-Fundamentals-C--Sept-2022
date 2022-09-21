@@ -1,0 +1,13 @@
+C:\Users\Alex\source\repos\01. Ages\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.exe
+C:\Users\Alex\source\repos\01. Ages\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.deps.json
+C:\Users\Alex\source\repos\01. Ages\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.runtimeconfig.json
+C:\Users\Alex\source\repos\01. Ages\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\01. Ages\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.dll
+C:\Users\Alex\source\repos\01. Ages\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.pdb
+C:\Users\Alex\source\repos\01. Ages\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\01. Ages\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\01. Ages\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.AssemblyInfo.cs
+C:\Users\Alex\source\repos\01. Ages\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\01. Ages\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.dll
+C:\Users\Alex\source\repos\01. Ages\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.pdb
+C:\Users\Alex\source\repos\01. Ages\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Alex\source\repos\Fundamentals Basic Syntax\10. Rage expense\bin\Debug\netcoreapp3.1\10. Rage expense.exe
+C:\Users\Alex\source\repos\Fundamentals Basic Syntax\10. Rage expense\bin\Debug\netcoreapp3.1\10. Rage expense.deps.json
+C:\Users\Alex\source\repos\Fundamentals Basic Syntax\10. Rage expense\bin\Debug\netcoreapp3.1\10. Rage expense.runtimeconfig.json
+C:\Users\Alex\source\repos\Fundamentals Basic Syntax\10. Rage expense\bin\Debug\netcoreapp3.1\10. Rage expense.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Fundamentals Basic Syntax\10. Rage expense\bin\Debug\netcoreapp3.1\10. Rage expense.dll
+C:\Users\Alex\source\repos\Fundamentals Basic Syntax\10. Rage expense\bin\Debug\netcoreapp3.1\10. Rage expense.pdb
+C:\Users\Alex\source\repos\Fundamentals Basic Syntax\10. Rage expense\obj\Debug\netcoreapp3.1\10. Rage expense.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Fundamentals Basic Syntax\10. Rage expense\obj\Debug\netcoreapp3.1\10. Rage expense.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Fundamentals Basic Syntax\10. Rage expense\obj\Debug\netcoreapp3.1\10. Rage expense.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Fundamentals Basic Syntax\10. Rage expense\obj\Debug\netcoreapp3.1\10. Rage expense.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Fundamentals Basic Syntax\10. Rage expense\obj\Debug\netcoreapp3.1\10. Rage expense.dll
+C:\Users\Alex\source\repos\Fundamentals Basic Syntax\10. Rage expense\obj\Debug\netcoreapp3.1\10. Rage expense.pdb
+C:\Users\Alex\source\repos\Fundamentals Basic Syntax\10. Rage expense\obj\Debug\netcoreapp3.1\10. Rage expense.genruntimeconfig.cache
