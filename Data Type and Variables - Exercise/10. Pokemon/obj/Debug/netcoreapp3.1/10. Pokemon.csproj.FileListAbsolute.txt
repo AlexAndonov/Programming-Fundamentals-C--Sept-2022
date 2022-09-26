@@ -1,0 +1,13 @@
+C:\Users\Alex\source\repos\Data Type and Variables Exercise\10. Pokemon\bin\Debug\netcoreapp3.1\10. Pokemon.exe
+C:\Users\Alex\source\repos\Data Type and Variables Exercise\10. Pokemon\bin\Debug\netcoreapp3.1\10. Pokemon.deps.json
+C:\Users\Alex\source\repos\Data Type and Variables Exercise\10. Pokemon\bin\Debug\netcoreapp3.1\10. Pokemon.runtimeconfig.json
+C:\Users\Alex\source\repos\Data Type and Variables Exercise\10. Pokemon\bin\Debug\netcoreapp3.1\10. Pokemon.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Data Type and Variables Exercise\10. Pokemon\bin\Debug\netcoreapp3.1\10. Pokemon.dll
+C:\Users\Alex\source\repos\Data Type and Variables Exercise\10. Pokemon\bin\Debug\netcoreapp3.1\10. Pokemon.pdb
+C:\Users\Alex\source\repos\Data Type and Variables Exercise\10. Pokemon\obj\Debug\netcoreapp3.1\10. Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Data Type and Variables Exercise\10. Pokemon\obj\Debug\netcoreapp3.1\10. Pokemon.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Data Type and Variables Exercise\10. Pokemon\obj\Debug\netcoreapp3.1\10. Pokemon.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Data Type and Variables Exercise\10. Pokemon\obj\Debug\netcoreapp3.1\10. Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Data Type and Variables Exercise\10. Pokemon\obj\Debug\netcoreapp3.1\10. Pokemon.dll
+C:\Users\Alex\source\repos\Data Type and Variables Exercise\10. Pokemon\obj\Debug\netcoreapp3.1\10. Pokemon.pdb
+C:\Users\Alex\source\repos\Data Type and Variables Exercise\10. Pokemon\obj\Debug\netcoreapp3.1\10. Pokemon.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Alex\source\repos\Data Type and Variables Exercise\05. Print Part of The ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part of The ASCII Table.exe
+C:\Users\Alex\source\repos\Data Type and Variables Exercise\05. Print Part of The ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part of The ASCII Table.deps.json
+C:\Users\Alex\source\repos\Data Type and Variables Exercise\05. Print Part of The ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part of The ASCII Table.runtimeconfig.json
+C:\Users\Alex\source\repos\Data Type and Variables Exercise\05. Print Part of The ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part of The ASCII Table.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Data Type and Variables Exercise\05. Print Part of The ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part of The ASCII Table.dll
+C:\Users\Alex\source\repos\Data Type and Variables Exercise\05. Print Part of The ASCII Table\bin\Debug\netcoreapp3.1\05. Print Part of The ASCII Table.pdb
+C:\Users\Alex\source\repos\Data Type and Variables Exercise\05. Print Part of The ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part of The ASCII Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Data Type and Variables Exercise\05. Print Part of The ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part of The ASCII Table.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Data Type and Variables Exercise\05. Print Part of The ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part of The ASCII Table.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Data Type and Variables Exercise\05. Print Part of The ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part of The ASCII Table.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Data Type and Variables Exercise\05. Print Part of The ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part of The ASCII Table.dll
+C:\Users\Alex\source\repos\Data Type and Variables Exercise\05. Print Part of The ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part of The ASCII Table.pdb
+C:\Users\Alex\source\repos\Data Type and Variables Exercise\05. Print Part of The ASCII Table\obj\Debug\netcoreapp3.1\05. Print Part of The ASCII Table.genruntimeconfig.cache
