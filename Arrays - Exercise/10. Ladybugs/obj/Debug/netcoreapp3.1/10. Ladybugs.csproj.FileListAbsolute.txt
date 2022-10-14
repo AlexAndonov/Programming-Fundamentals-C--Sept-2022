@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\Arrays - exercise\10. Ladybugs\bin\Debug\netcoreapp3.1\10. Ladybugs.exe
+C:\Users\Alex\source\repos\Arrays - exercise\10. Ladybugs\bin\Debug\netcoreapp3.1\10. Ladybugs.deps.json
+C:\Users\Alex\source\repos\Arrays - exercise\10. Ladybugs\bin\Debug\netcoreapp3.1\10. Ladybugs.runtimeconfig.json
+C:\Users\Alex\source\repos\Arrays - exercise\10. Ladybugs\bin\Debug\netcoreapp3.1\10. Ladybugs.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Arrays - exercise\10. Ladybugs\bin\Debug\netcoreapp3.1\10. Ladybugs.dll
+C:\Users\Alex\source\repos\Arrays - exercise\10. Ladybugs\bin\Debug\netcoreapp3.1\10. Ladybugs.pdb
+C:\Users\Alex\source\repos\Arrays - exercise\10. Ladybugs\obj\Debug\netcoreapp3.1\10. Ladybugs.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Arrays - exercise\10. Ladybugs\obj\Debug\netcoreapp3.1\10. Ladybugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Arrays - exercise\10. Ladybugs\obj\Debug\netcoreapp3.1\10. Ladybugs.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Arrays - exercise\10. Ladybugs\obj\Debug\netcoreapp3.1\10. Ladybugs.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Arrays - exercise\10. Ladybugs\obj\Debug\netcoreapp3.1\10. Ladybugs.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Arrays - exercise\10. Ladybugs\obj\Debug\netcoreapp3.1\10. Ladybugs.dll
+C:\Users\Alex\source\repos\Arrays - exercise\10. Ladybugs\obj\Debug\netcoreapp3.1\10. Ladybugs.pdb
+C:\Users\Alex\source\repos\Arrays - exercise\10. Ladybugs\obj\Debug\netcoreapp3.1\10. Ladybugs.genruntimeconfig.cache

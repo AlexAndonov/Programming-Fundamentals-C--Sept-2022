@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\Arrays - exercise\07. Max Sum of Equal Elements\bin\Debug\netcoreapp3.1\07. Max Sum of Equal Elements.exe
+C:\Users\Alex\source\repos\Arrays - exercise\07. Max Sum of Equal Elements\bin\Debug\netcoreapp3.1\07. Max Sum of Equal Elements.deps.json
+C:\Users\Alex\source\repos\Arrays - exercise\07. Max Sum of Equal Elements\bin\Debug\netcoreapp3.1\07. Max Sum of Equal Elements.runtimeconfig.json
+C:\Users\Alex\source\repos\Arrays - exercise\07. Max Sum of Equal Elements\bin\Debug\netcoreapp3.1\07. Max Sum of Equal Elements.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Arrays - exercise\07. Max Sum of Equal Elements\bin\Debug\netcoreapp3.1\07. Max Sum of Equal Elements.dll
+C:\Users\Alex\source\repos\Arrays - exercise\07. Max Sum of Equal Elements\bin\Debug\netcoreapp3.1\07. Max Sum of Equal Elements.pdb
+C:\Users\Alex\source\repos\Arrays - exercise\07. Max Sum of Equal Elements\obj\Debug\netcoreapp3.1\07. Max Sum of Equal Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Arrays - exercise\07. Max Sum of Equal Elements\obj\Debug\netcoreapp3.1\07. Max Sum of Equal Elements.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Arrays - exercise\07. Max Sum of Equal Elements\obj\Debug\netcoreapp3.1\07. Max Sum of Equal Elements.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Arrays - exercise\07. Max Sum of Equal Elements\obj\Debug\netcoreapp3.1\07. Max Sum of Equal Elements.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Arrays - exercise\07. Max Sum of Equal Elements\obj\Debug\netcoreapp3.1\07. Max Sum of Equal Elements.dll
+C:\Users\Alex\source\repos\Arrays - exercise\07. Max Sum of Equal Elements\obj\Debug\netcoreapp3.1\07. Max Sum of Equal Elements.pdb
+C:\Users\Alex\source\repos\Arrays - exercise\07. Max Sum of Equal Elements\obj\Debug\netcoreapp3.1\07. Max Sum of Equal Elements.genruntimeconfig.cache
+C:\Users\Alex\source\repos\Arrays - exercise\07. Max Sum of Equal Elements\obj\Debug\netcoreapp3.1\07. Max Sum of Equal Elements.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\Arrays - exercise\06. Equal Sums\bin\Debug\netcoreapp3.1\06. Equal Sums.exe
+C:\Users\Alex\source\repos\Arrays - exercise\06. Equal Sums\bin\Debug\netcoreapp3.1\06. Equal Sums.deps.json
+C:\Users\Alex\source\repos\Arrays - exercise\06. Equal Sums\bin\Debug\netcoreapp3.1\06. Equal Sums.runtimeconfig.json
+C:\Users\Alex\source\repos\Arrays - exercise\06. Equal Sums\bin\Debug\netcoreapp3.1\06. Equal Sums.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Arrays - exercise\06. Equal Sums\bin\Debug\netcoreapp3.1\06. Equal Sums.dll
+C:\Users\Alex\source\repos\Arrays - exercise\06. Equal Sums\bin\Debug\netcoreapp3.1\06. Equal Sums.pdb
+C:\Users\Alex\source\repos\Arrays - exercise\06. Equal Sums\obj\Debug\netcoreapp3.1\06. Equal Sums.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Arrays - exercise\06. Equal Sums\obj\Debug\netcoreapp3.1\06. Equal Sums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Arrays - exercise\06. Equal Sums\obj\Debug\netcoreapp3.1\06. Equal Sums.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Arrays - exercise\06. Equal Sums\obj\Debug\netcoreapp3.1\06. Equal Sums.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Arrays - exercise\06. Equal Sums\obj\Debug\netcoreapp3.1\06. Equal Sums.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Arrays - exercise\06. Equal Sums\obj\Debug\netcoreapp3.1\06. Equal Sums.dll
+C:\Users\Alex\source\repos\Arrays - exercise\06. Equal Sums\obj\Debug\netcoreapp3.1\06. Equal Sums.pdb
+C:\Users\Alex\source\repos\Arrays - exercise\06. Equal Sums\obj\Debug\netcoreapp3.1\06. Equal Sums.genruntimeconfig.cache
