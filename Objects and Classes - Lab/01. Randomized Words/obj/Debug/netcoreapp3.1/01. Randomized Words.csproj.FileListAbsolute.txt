@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\Objects and Classes Lab\01. Randomized Words\bin\Debug\netcoreapp3.1\01. Randomized Words.exe
+C:\Users\Alex\source\repos\Objects and Classes Lab\01. Randomized Words\bin\Debug\netcoreapp3.1\01. Randomized Words.deps.json
+C:\Users\Alex\source\repos\Objects and Classes Lab\01. Randomized Words\bin\Debug\netcoreapp3.1\01. Randomized Words.runtimeconfig.json
+C:\Users\Alex\source\repos\Objects and Classes Lab\01. Randomized Words\bin\Debug\netcoreapp3.1\01. Randomized Words.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Objects and Classes Lab\01. Randomized Words\bin\Debug\netcoreapp3.1\01. Randomized Words.dll
+C:\Users\Alex\source\repos\Objects and Classes Lab\01. Randomized Words\bin\Debug\netcoreapp3.1\01. Randomized Words.pdb
+C:\Users\Alex\source\repos\Objects and Classes Lab\01. Randomized Words\obj\Debug\netcoreapp3.1\01. Randomized Words.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Objects and Classes Lab\01. Randomized Words\obj\Debug\netcoreapp3.1\01. Randomized Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Objects and Classes Lab\01. Randomized Words\obj\Debug\netcoreapp3.1\01. Randomized Words.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Objects and Classes Lab\01. Randomized Words\obj\Debug\netcoreapp3.1\01. Randomized Words.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Objects and Classes Lab\01. Randomized Words\obj\Debug\netcoreapp3.1\01. Randomized Words.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Objects and Classes Lab\01. Randomized Words\obj\Debug\netcoreapp3.1\01. Randomized Words.dll
+C:\Users\Alex\source\repos\Objects and Classes Lab\01. Randomized Words\obj\Debug\netcoreapp3.1\01. Randomized Words.pdb
+C:\Users\Alex\source\repos\Objects and Classes Lab\01. Randomized Words\obj\Debug\netcoreapp3.1\01. Randomized Words.genruntimeconfig.cache

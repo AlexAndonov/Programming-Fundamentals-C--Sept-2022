@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\Objects and Classes Lab\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.exe
+C:\Users\Alex\source\repos\Objects and Classes Lab\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.deps.json
+C:\Users\Alex\source\repos\Objects and Classes Lab\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.runtimeconfig.json
+C:\Users\Alex\source\repos\Objects and Classes Lab\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Objects and Classes Lab\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.dll
+C:\Users\Alex\source\repos\Objects and Classes Lab\03. Songs\bin\Debug\netcoreapp3.1\03. Songs.pdb
+C:\Users\Alex\source\repos\Objects and Classes Lab\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Objects and Classes Lab\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Objects and Classes Lab\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Objects and Classes Lab\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Objects and Classes Lab\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Objects and Classes Lab\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.dll
+C:\Users\Alex\source\repos\Objects and Classes Lab\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.pdb
+C:\Users\Alex\source\repos\Objects and Classes Lab\03. Songs\obj\Debug\netcoreapp3.1\03. Songs.genruntimeconfig.cache
