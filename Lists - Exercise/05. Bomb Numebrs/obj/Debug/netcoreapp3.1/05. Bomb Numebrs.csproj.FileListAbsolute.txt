@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\Lists Exercise\05. Bomb Numebrs\bin\Debug\netcoreapp3.1\05. Bomb Numebrs.exe
+C:\Users\Alex\source\repos\Lists Exercise\05. Bomb Numebrs\bin\Debug\netcoreapp3.1\05. Bomb Numebrs.deps.json
+C:\Users\Alex\source\repos\Lists Exercise\05. Bomb Numebrs\bin\Debug\netcoreapp3.1\05. Bomb Numebrs.runtimeconfig.json
+C:\Users\Alex\source\repos\Lists Exercise\05. Bomb Numebrs\bin\Debug\netcoreapp3.1\05. Bomb Numebrs.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Lists Exercise\05. Bomb Numebrs\bin\Debug\netcoreapp3.1\05. Bomb Numebrs.dll
+C:\Users\Alex\source\repos\Lists Exercise\05. Bomb Numebrs\bin\Debug\netcoreapp3.1\05. Bomb Numebrs.pdb
+C:\Users\Alex\source\repos\Lists Exercise\05. Bomb Numebrs\obj\Debug\netcoreapp3.1\05. Bomb Numebrs.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Lists Exercise\05. Bomb Numebrs\obj\Debug\netcoreapp3.1\05. Bomb Numebrs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Lists Exercise\05. Bomb Numebrs\obj\Debug\netcoreapp3.1\05. Bomb Numebrs.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Lists Exercise\05. Bomb Numebrs\obj\Debug\netcoreapp3.1\05. Bomb Numebrs.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Lists Exercise\05. Bomb Numebrs\obj\Debug\netcoreapp3.1\05. Bomb Numebrs.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Lists Exercise\05. Bomb Numebrs\obj\Debug\netcoreapp3.1\05. Bomb Numebrs.dll
+C:\Users\Alex\source\repos\Lists Exercise\05. Bomb Numebrs\obj\Debug\netcoreapp3.1\05. Bomb Numebrs.pdb
+C:\Users\Alex\source\repos\Lists Exercise\05. Bomb Numebrs\obj\Debug\netcoreapp3.1\05. Bomb Numebrs.genruntimeconfig.cache
