@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\Lists - Lab\01. Sum Adjecent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjecent Equal Numbers.exe
+C:\Users\Alex\source\repos\Lists - Lab\01. Sum Adjecent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjecent Equal Numbers.deps.json
+C:\Users\Alex\source\repos\Lists - Lab\01. Sum Adjecent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjecent Equal Numbers.runtimeconfig.json
+C:\Users\Alex\source\repos\Lists - Lab\01. Sum Adjecent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjecent Equal Numbers.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Lists - Lab\01. Sum Adjecent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjecent Equal Numbers.dll
+C:\Users\Alex\source\repos\Lists - Lab\01. Sum Adjecent Equal Numbers\bin\Debug\netcoreapp3.1\01. Sum Adjecent Equal Numbers.pdb
+C:\Users\Alex\source\repos\Lists - Lab\01. Sum Adjecent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjecent Equal Numbers.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Lists - Lab\01. Sum Adjecent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjecent Equal Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Lists - Lab\01. Sum Adjecent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjecent Equal Numbers.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Lists - Lab\01. Sum Adjecent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjecent Equal Numbers.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Lists - Lab\01. Sum Adjecent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjecent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Lists - Lab\01. Sum Adjecent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjecent Equal Numbers.dll
+C:\Users\Alex\source\repos\Lists - Lab\01. Sum Adjecent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjecent Equal Numbers.pdb
+C:\Users\Alex\source\repos\Lists - Lab\01. Sum Adjecent Equal Numbers\obj\Debug\netcoreapp3.1\01. Sum Adjecent Equal Numbers.genruntimeconfig.cache

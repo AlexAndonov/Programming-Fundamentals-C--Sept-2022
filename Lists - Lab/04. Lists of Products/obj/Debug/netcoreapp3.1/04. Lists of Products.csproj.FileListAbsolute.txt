@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\Lists - Lab\04. Lists of Products\bin\Debug\netcoreapp3.1\04. Lists of Products.exe
+C:\Users\Alex\source\repos\Lists - Lab\04. Lists of Products\bin\Debug\netcoreapp3.1\04. Lists of Products.deps.json
+C:\Users\Alex\source\repos\Lists - Lab\04. Lists of Products\bin\Debug\netcoreapp3.1\04. Lists of Products.runtimeconfig.json
+C:\Users\Alex\source\repos\Lists - Lab\04. Lists of Products\bin\Debug\netcoreapp3.1\04. Lists of Products.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Lists - Lab\04. Lists of Products\bin\Debug\netcoreapp3.1\04. Lists of Products.dll
+C:\Users\Alex\source\repos\Lists - Lab\04. Lists of Products\bin\Debug\netcoreapp3.1\04. Lists of Products.pdb
+C:\Users\Alex\source\repos\Lists - Lab\04. Lists of Products\obj\Debug\netcoreapp3.1\04. Lists of Products.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Lists - Lab\04. Lists of Products\obj\Debug\netcoreapp3.1\04. Lists of Products.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Lists - Lab\04. Lists of Products\obj\Debug\netcoreapp3.1\04. Lists of Products.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Lists - Lab\04. Lists of Products\obj\Debug\netcoreapp3.1\04. Lists of Products.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Lists - Lab\04. Lists of Products\obj\Debug\netcoreapp3.1\04. Lists of Products.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Lists - Lab\04. Lists of Products\obj\Debug\netcoreapp3.1\04. Lists of Products.dll
+C:\Users\Alex\source\repos\Lists - Lab\04. Lists of Products\obj\Debug\netcoreapp3.1\04. Lists of Products.pdb
+C:\Users\Alex\source\repos\Lists - Lab\04. Lists of Products\obj\Debug\netcoreapp3.1\04. Lists of Products.genruntimeconfig.cache
