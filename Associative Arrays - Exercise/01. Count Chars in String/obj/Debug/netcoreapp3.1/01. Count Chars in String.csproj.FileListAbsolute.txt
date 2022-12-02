@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\Associative Arrays - Exercise\01. Count Chars in String\bin\Debug\netcoreapp3.1\01. Count Chars in String.exe
+C:\Users\Alex\source\repos\Associative Arrays - Exercise\01. Count Chars in String\bin\Debug\netcoreapp3.1\01. Count Chars in String.deps.json
+C:\Users\Alex\source\repos\Associative Arrays - Exercise\01. Count Chars in String\bin\Debug\netcoreapp3.1\01. Count Chars in String.runtimeconfig.json
+C:\Users\Alex\source\repos\Associative Arrays - Exercise\01. Count Chars in String\bin\Debug\netcoreapp3.1\01. Count Chars in String.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Associative Arrays - Exercise\01. Count Chars in String\bin\Debug\netcoreapp3.1\01. Count Chars in String.dll
+C:\Users\Alex\source\repos\Associative Arrays - Exercise\01. Count Chars in String\bin\Debug\netcoreapp3.1\01. Count Chars in String.pdb
+C:\Users\Alex\source\repos\Associative Arrays - Exercise\01. Count Chars in String\obj\Debug\netcoreapp3.1\01. Count Chars in String.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Associative Arrays - Exercise\01. Count Chars in String\obj\Debug\netcoreapp3.1\01. Count Chars in String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Associative Arrays - Exercise\01. Count Chars in String\obj\Debug\netcoreapp3.1\01. Count Chars in String.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Associative Arrays - Exercise\01. Count Chars in String\obj\Debug\netcoreapp3.1\01. Count Chars in String.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Associative Arrays - Exercise\01. Count Chars in String\obj\Debug\netcoreapp3.1\01. Count Chars in String.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Associative Arrays - Exercise\01. Count Chars in String\obj\Debug\netcoreapp3.1\01. Count Chars in String.dll
+C:\Users\Alex\source\repos\Associative Arrays - Exercise\01. Count Chars in String\obj\Debug\netcoreapp3.1\01. Count Chars in String.pdb
+C:\Users\Alex\source\repos\Associative Arrays - Exercise\01. Count Chars in String\obj\Debug\netcoreapp3.1\01. Count Chars in String.genruntimeconfig.cache
