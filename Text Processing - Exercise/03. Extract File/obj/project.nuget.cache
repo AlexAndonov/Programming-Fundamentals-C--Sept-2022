@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HANT4Wz37/PYzSme8Pj9+Y3fSL3FlG8WEDQxn4GjsHp8mSWqFKWNgLIjg6C74kWI9X2X7oilDfJuu4QOvRylSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\source\\repos\\Text Processing - Exercise\\03. Extract File\\03. Extract File.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
