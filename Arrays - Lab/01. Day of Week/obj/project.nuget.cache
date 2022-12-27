@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AIF/1TGJ3Il3D7G0AzMmD2d5fATaJqJHrE3ceLojpzvVF03o4yIbdKrnXRn9HBgj5zD+GJbRJa9vdRwJ6qF9lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\source\\repos\\Arrays\\01. Day of Week\\01. Day of Week.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

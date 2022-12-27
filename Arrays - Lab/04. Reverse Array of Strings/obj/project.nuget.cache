@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g+5OKT4CBmw72lQQHqrgFt9s7u4o0N3iqHQeSOpY/ZhboCl3BKtyCD198gkcNN25L+DBt5M0Uk+nfLJN41a4YA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\source\\repos\\Arrays\\04. Reverse Array of Strings\\04. Reverse Array of Strings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

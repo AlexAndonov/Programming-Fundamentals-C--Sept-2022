@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\Arrays\07. Equal Arrays\bin\Debug\netcoreapp3.1\07. Equal Arrays.exe
+C:\Users\Alex\source\repos\Arrays\07. Equal Arrays\bin\Debug\netcoreapp3.1\07. Equal Arrays.deps.json
+C:\Users\Alex\source\repos\Arrays\07. Equal Arrays\bin\Debug\netcoreapp3.1\07. Equal Arrays.runtimeconfig.json
+C:\Users\Alex\source\repos\Arrays\07. Equal Arrays\bin\Debug\netcoreapp3.1\07. Equal Arrays.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Arrays\07. Equal Arrays\bin\Debug\netcoreapp3.1\07. Equal Arrays.dll
+C:\Users\Alex\source\repos\Arrays\07. Equal Arrays\bin\Debug\netcoreapp3.1\07. Equal Arrays.pdb
+C:\Users\Alex\source\repos\Arrays\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Arrays\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Arrays\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Arrays\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Arrays\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.dll
+C:\Users\Alex\source\repos\Arrays\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.pdb
+C:\Users\Alex\source\repos\Arrays\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.genruntimeconfig.cache
+C:\Users\Alex\source\repos\Arrays\07. Equal Arrays\obj\Debug\netcoreapp3.1\07. Equal Arrays.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L2jdkOKXIzCVpVef2EVQ7+VxExMilKqulLOksa772pNM5NJ7OZnd6a/Eqha3OS9qxVxYv4WKxrCeDxI/vJIQfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\source\\repos\\Arrays\\07. Equal Arrays\\07. Equal Arrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
